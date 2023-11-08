@@ -1,0 +1,38 @@
+Information on Southwest Queens in 2023, Quarter 2
+
+	# Arrests: 1548
+	Rank by # Arrests: 15/45
+
+	% Change in Arrests: 8.48
+	Rank by % Change in Arrests: 17/45
+
+	Arrests by Population: 0.52
+	Rank by Arrests by Population: 26/45
+
+	Most Common Offense Types:
+		Offenses Against the Person: 29.01%
+		Offenses Against Public Administration: 16.86%
+		Offenses Involving Theft: 15.63%
+		Offenses Involving Damage to and Intrusion Upon Property: 8.46%
+		Vehicle and Traffic Law: 7.56%
+
+	Census Information
+		Population: 295180.0
+
+		Mean Median Worker Earnings: $41240.56708110306
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 10.3656297852158
+
+		Mean Unemployment Rate: 7.654523341689817
+
+		% of Population Hispanic or Latino: 33.87%
+		Rank by % Hispanic or Latino: 14/45
+
+		% of Population Foreign-Born: 47.58%
+		Rank by % Foreign-Born: 5/45
+			Naturalized Citizenship: 30.92%
+			No US Citizenship: 16.66%
+
+		% of Population Primary Language Not-English: 49.44%
+		Rank by % Primary Language Not-English: 18/45

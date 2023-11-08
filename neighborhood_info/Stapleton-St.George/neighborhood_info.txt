@@ -1,0 +1,38 @@
+Information on Stapleton - St. George in 2023, Quarter 2
+
+	# Arrests: 1279
+	Rank by # Arrests: 21/45
+
+	% Change in Arrests: 17.45
+	Rank by % Change in Arrests: 2/45
+
+	Arrests by Population: 1.01
+	Rank by Arrests by Population: 7/45
+
+	Most Common Offense Types:
+		Offenses Against the Person: 24.24%
+		Vehicle and Traffic Law: 18.14%
+		Offenses Involving Theft: 15.95%
+		Offenses Against Public Administration: 13.45%
+		Offenses Against Public Health and Morals: 12.43%
+
+	Census Information
+		Population: 127116.0
+
+		Mean Median Worker Earnings: $44851.66016079801
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 13.057183989426983
+
+		Mean Unemployment Rate: 6.179181220302716
+
+		% of Population Hispanic or Latino: 20.86%
+		Rank by % Hispanic or Latino: 22/45
+
+		% of Population Foreign-Born: 30.46%
+		Rank by % Foreign-Born: 22/45
+			Naturalized Citizenship: 20.63%
+			No US Citizenship: 9.82%
+
+		% of Population Primary Language Not-English: 41.59%
+		Rank by % Primary Language Not-English: 22/45

@@ -1,0 +1,38 @@
+Information on Port Richmond in 2023, Quarter 2
+
+	# Arrests: 583
+	Rank by # Arrests: 35/45
+
+	% Change in Arrests: 15.45
+	Rank by % Change in Arrests: 3/45
+
+	Arrests by Population: 0.81
+	Rank by Arrests by Population: 11/45
+
+	Most Common Offense Types:
+		Offenses Against the Person: 29.5%
+		Offenses Involving Theft: 18.01%
+		Vehicle and Traffic Law: 15.27%
+		Offenses Against Public Administration: 13.89%
+		Offenses Involving Damage to and Intrusion Upon Property: 6.35%
+
+	Census Information
+		Population: 71589.0
+
+		Mean Median Worker Earnings: $43860.3782284988
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 16.994803670955037
+
+		Mean Unemployment Rate: 5.760763525122574
+
+		% of Population Hispanic or Latino: 35.6%
+		Rank by % Hispanic or Latino: 13/45
+
+		% of Population Foreign-Born: 25.73%
+		Rank by % Foreign-Born: 31/45
+			Naturalized Citizenship: 13.47%
+			No US Citizenship: 12.26%
+
+		% of Population Primary Language Not-English: 38.14%
+		Rank by % Primary Language Not-English: 26/45

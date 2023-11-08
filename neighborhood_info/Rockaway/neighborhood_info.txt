@@ -1,0 +1,38 @@
+Information on Rockaway in 2023, Quarter 2
+
+	# Arrests: 734
+	Rank by # Arrests: 32/45
+
+	% Change in Arrests: 3.38
+	Rank by % Change in Arrests: 26/45
+
+	Arrests by Population: 0.51
+	Rank by Arrests by Population: 27/45
+
+	Most Common Offense Types:
+		Offenses Against the Person: 34.88%
+		Offenses Involving Theft: 15.67%
+		Offenses Against Public Administration: 12.81%
+		Offenses Involving Damage to and Intrusion Upon Property: 7.49%
+		Vehicle and Traffic Law: 7.36%
+
+	Census Information
+		Population: 144881.0
+
+		Mean Median Worker Earnings: $40556.27079465216
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 17.757959290728255
+
+		Mean Unemployment Rate: 8.978376736770176
+
+		% of Population Hispanic or Latino: 24.97%
+		Rank by % Hispanic or Latino: 19/45
+
+		% of Population Foreign-Born: 28.62%
+		Rank by % Foreign-Born: 26/45
+			Naturalized Citizenship: 17.94%
+			No US Citizenship: 10.67%
+
+		% of Population Primary Language Not-English: 31.81%
+		Rank by % Primary Language Not-English: 32/45

@@ -1,0 +1,38 @@
+Information on Sunset Park in 2023, Quarter 2
+
+	# Arrests: 965
+	Rank by # Arrests: 26/45
+
+	% Change in Arrests: 15.43
+	Rank by % Change in Arrests: 4/45
+
+	Arrests by Population: 0.79
+	Rank by Arrests by Population: 12/45
+
+	Most Common Offense Types:
+		Offenses Involving Theft: 26.94%
+		Offenses Against the Person: 22.9%
+		Offenses Against Public Health and Morals: 11.4%
+		Vehicle and Traffic Law: 8.39%
+		Offenses Against Public Administration: 8.39%
+
+	Census Information
+		Population: 122085.0
+
+		Mean Median Worker Earnings: $30584.439144858094
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 20.709394274480896
+
+		Mean Unemployment Rate: 7.326476635131262
+
+		% of Population Hispanic or Latino: 41.88%
+		Rank by % Hispanic or Latino: 10/45
+
+		% of Population Foreign-Born: 50.0%
+		Rank by % Foreign-Born: 4/45
+			Naturalized Citizenship: 20.23%
+			No US Citizenship: 29.77%
+
+		% of Population Primary Language Not-English: 76.3%
+		Rank by % Primary Language Not-English: 2/45

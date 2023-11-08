@@ -1,0 +1,38 @@
+Information on Pelham - Throgs Neck in 2023, Quarter 2
+
+	# Arrests: 2331
+	Rank by # Arrests: 7/45
+
+	% Change in Arrests: 5.0
+	Rank by % Change in Arrests: 23/45
+
+	Arrests by Population: 0.75
+	Rank by Arrests by Population: 15/45
+
+	Most Common Offense Types:
+		Offenses Against the Person: 31.92%
+		Offenses Involving Theft: 26.13%
+		Vehicle and Traffic Law: 11.37%
+		Offenses Involving Damage to and Intrusion Upon Property: 7.46%
+		Offenses Against Public Administration: 7.42%
+
+	Census Information
+		Population: 308864.0
+
+		Mean Median Worker Earnings: $38972.80166027766
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 20.267370752175715
+
+		Mean Unemployment Rate: 9.189166753004558
+
+		% of Population Hispanic or Latino: 53.28%
+		Rank by % Hispanic or Latino: 6/45
+
+		% of Population Foreign-Born: 28.65%
+		Rank by % Foreign-Born: 25/45
+			Naturalized Citizenship: 15.6%
+			No US Citizenship: 13.05%
+
+		% of Population Primary Language Not-English: 55.57%
+		Rank by % Primary Language Not-English: 14/45

@@ -1,0 +1,38 @@
+Information on Ridgewood - Forest Hills in 2023, Quarter 2
+
+	# Arrests: 783
+	Rank by # Arrests: 30/45
+
+	% Change in Arrests: -14.98
+	Rank by % Change in Arrests: 45/45
+
+	Arrests by Population: 0.29
+	Rank by Arrests by Population: 37/45
+
+	Most Common Offense Types:
+		Offenses Against the Person: 37.93%
+		Offenses Involving Theft: 19.92%
+		Offenses Involving Damage to and Intrusion Upon Property: 11.49%
+		Vehicle and Traffic Law: 10.98%
+		Offenses Against Public Administration: 7.66%
+
+	Census Information
+		Population: 272026.0
+
+		Mean Median Worker Earnings: $53433.13190650893
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 9.135789961253703
+
+		Mean Unemployment Rate: 5.619494827700294
+
+		% of Population Hispanic or Latino: 29.2%
+		Rank by % Hispanic or Latino: 15/45
+
+		% of Population Foreign-Born: 43.16%
+		Rank by % Foreign-Born: 9/45
+			Naturalized Citizenship: 26.46%
+			No US Citizenship: 16.7%
+
+		% of Population Primary Language Not-English: 58.66%
+		Rank by % Primary Language Not-English: 13/45

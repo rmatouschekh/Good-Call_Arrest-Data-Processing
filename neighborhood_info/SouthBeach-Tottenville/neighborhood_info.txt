@@ -1,0 +1,38 @@
+Information on South Beach - Tottenville in 2023, Quarter 2
+
+	# Arrests: 514
+	Rank by # Arrests: 37/45
+
+	% Change in Arrests: -6.88
+	Rank by % Change in Arrests: 42/45
+
+	Arrests by Population: 0.26
+	Rank by Arrests by Population: 38/45
+
+	Most Common Offense Types:
+		Offenses Against the Person: 29.96%
+		Offenses Involving Theft: 19.65%
+		Offenses Against Public Administration: 14.4%
+		Vehicle and Traffic Law: 12.26%
+		Offenses Involving Damage to and Intrusion Upon Property: 9.14%
+
+	Census Information
+		Population: 200753.0
+
+		Mean Median Worker Earnings: $57358.589640005375
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 6.658360273570009
+
+		Mean Unemployment Rate: 4.869328478279279
+
+		% of Population Hispanic or Latino: 12.33%
+		Rank by % Hispanic or Latino: 36/45
+
+		% of Population Foreign-Born: 18.2%
+		Rank by % Foreign-Born: 43/45
+			Naturalized Citizenship: 13.27%
+			No US Citizenship: 4.93%
+
+		% of Population Primary Language Not-English: 25.11%
+		Rank by % Primary Language Not-English: 41/45

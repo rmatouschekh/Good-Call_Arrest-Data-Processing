@@ -1,0 +1,38 @@
+Information on Southeast Queens in 2023, Quarter 2
+
+	# Arrests: 1006
+	Rank by # Arrests: 25/45
+
+	% Change in Arrests: 14.19
+	Rank by % Change in Arrests: 8/45
+
+	Arrests by Population: 0.35
+	Rank by Arrests by Population: 35/45
+
+	Most Common Offense Types:
+		Offenses Against the Person: 28.53%
+		Vehicle and Traffic Law: 14.91%
+		Offenses Involving Theft: 10.34%
+		Offenses Involving Damage to and Intrusion Upon Property: 9.74%
+		Offenses Involving Fraud: 9.15%
+
+	Census Information
+		Population: 285958.0
+
+		Mean Median Worker Earnings: $50045.54302030368
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 6.293546255044447
+
+		Mean Unemployment Rate: 6.024094797138041
+
+		% of Population Hispanic or Latino: 13.29%
+		Rank by % Hispanic or Latino: 34/45
+
+		% of Population Foreign-Born: 40.43%
+		Rank by % Foreign-Born: 13/45
+			Naturalized Citizenship: 30.01%
+			No US Citizenship: 10.42%
+
+		% of Population Primary Language Not-English: 35.84%
+		Rank by % Primary Language Not-English: 29/45
