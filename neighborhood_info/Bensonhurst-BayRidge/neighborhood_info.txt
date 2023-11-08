@@ -1,0 +1,38 @@
+Information on Bensonhurst - Bay Ridge in 2023, Quarter 2
+
+	# Arrests: 702
+	Rank by # Arrests: 34/45
+
+	% Change in Arrests: 1.89
+	Rank by % Change in Arrests: 29/45
+
+	Arrests by Population: 0.33
+	Rank by Arrests by Population: 36/45
+
+	Most Common Offense Types:
+		Offenses Involving Theft: 27.07%
+		Offenses Against the Person: 26.92%
+		Vehicle and Traffic Law: 14.39%
+		Offenses Against Public Administration: 8.83%
+		Offenses Involving Damage to and Intrusion Upon Property: 6.41%
+
+	Census Information
+		Population: 213566.0
+
+		Mean Median Worker Earnings: $44277.10120056564
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 14.438646132811405
+
+		Mean Unemployment Rate: 6.43336392496933
+
+		% of Population Hispanic or Latino: 16.66%
+		Rank by % Hispanic or Latino: 27/45
+
+		% of Population Foreign-Born: 43.39%
+		Rank by % Foreign-Born: 8/45
+			Naturalized Citizenship: 26.88%
+			No US Citizenship: 16.51%
+
+		% of Population Primary Language Not-English: 59.46%
+		Rank by % Primary Language Not-English: 11/45

@@ -1,0 +1,38 @@
+Information on Bedford Stuyvesant - Crown Heights in 2023, Quarter 2
+
+	# Arrests: 2809
+	Rank by # Arrests: 4/45
+
+	% Change in Arrests: 0.97
+	Rank by % Change in Arrests: 32/45
+
+	Arrests by Population: 0.79
+	Rank by Arrests by Population: 13/45
+
+	Most Common Offense Types:
+		Offenses Against the Person: 30.12%
+		Offenses Involving Theft: 16.95%
+		Offenses Against Public Administration: 11.43%
+		Offenses Against Public Health and Morals: 8.83%
+		Public Safety Offenses: 8.72%
+
+	Census Information
+		Population: 354128.0
+
+		Mean Median Worker Earnings: $45356.1577480459
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 21.574571906203406
+
+		Mean Unemployment Rate: 9.333252665702796
+
+		% of Population Hispanic or Latino: 14.07%
+		Rank by % Hispanic or Latino: 32/45
+
+		% of Population Foreign-Born: 26.62%
+		Rank by % Foreign-Born: 30/45
+			Naturalized Citizenship: 16.89%
+			No US Citizenship: 9.73%
+
+		% of Population Primary Language Not-English: 20.09%
+		Rank by % Primary Language Not-English: 43/45

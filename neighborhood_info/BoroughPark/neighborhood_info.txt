@@ -1,0 +1,38 @@
+Information on Borough Park in 2023, Quarter 2
+
+	# Arrests: 756
+	Rank by # Arrests: 31/45
+
+	% Change in Arrests: -0.92
+	Rank by % Change in Arrests: 37/45
+
+	Arrests by Population: 0.22
+	Rank by Arrests by Population: 40/45
+
+	Most Common Offense Types:
+		Offenses Against the Person: 35.85%
+		Offenses Involving Theft: 20.63%
+		Offenses Involving Damage to and Intrusion Upon Property: 11.9%
+		Offenses Against Public Administration: 10.19%
+		Vehicle and Traffic Law: 7.28%
+
+	Census Information
+		Population: 343418.0
+
+		Mean Median Worker Earnings: $34323.13658573517
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 21.837382140714816
+
+		Mean Unemployment Rate: 7.065179169408708
+
+		% of Population Hispanic or Latino: 13.0%
+		Rank by % Hispanic or Latino: 35/45
+
+		% of Population Foreign-Born: 37.73%
+		Rank by % Foreign-Born: 18/45
+			Naturalized Citizenship: 21.84%
+			No US Citizenship: 15.89%
+
+		% of Population Primary Language Not-English: 66.34%
+		Rank by % Primary Language Not-English: 10/45
