@@ -1,0 +1,38 @@
+Information on Central Harlem - Morningside Heights in 2023, Quarter 2
+
+	# Arrests: 1483
+	Rank by # Arrests: 17/45
+
+	% Change in Arrests: -0.6
+	Rank by % Change in Arrests: 36/45
+
+	Arrests by Population: 0.81
+	Rank by Arrests by Population: 10/45
+
+	Most Common Offense Types:
+		Offenses Against the Person: 30.68%
+		Offenses Involving Theft: 21.31%
+		Offenses Against Public Health and Morals: 11.4%
+		Offenses Involving Damage to and Intrusion Upon Property: 9.64%
+		Offenses Against Public Administration: 7.55%
+
+	Census Information
+		Population: 183460.0
+
+		Mean Median Worker Earnings: $42097.3507685599
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 23.897473563719608
+
+		Mean Unemployment Rate: 9.592433773029542
+
+		% of Population Hispanic or Latino: 25.32%
+		Rank by % Hispanic or Latino: 18/45
+
+		% of Population Foreign-Born: 23.85%
+		Rank by % Foreign-Born: 37/45
+			Naturalized Citizenship: 12.03%
+			No US Citizenship: 11.82%
+
+		% of Population Primary Language Not-English: 36.09%
+		Rank by % Primary Language Not-English: 30/45

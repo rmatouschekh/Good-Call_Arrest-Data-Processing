@@ -1,0 +1,38 @@
+Information on Chelsea - Clinton in 2023, Quarter 2
+
+	# Arrests: 3345
+	Rank by # Arrests: 1/45
+
+	% Change in Arrests: 15.38
+	Rank by % Change in Arrests: 5/45
+
+	Arrests by Population: 2.07
+	Rank by Arrests by Population: 1/45
+
+	Most Common Offense Types:
+		Offenses Involving Theft: 48.79%
+		Offenses Against the Person: 18.68%
+		Offenses Against Public Health and Morals: 9.48%
+		Offenses Involving Damage to and Intrusion Upon Property: 9.21%
+		Offenses Against Public Administration: 3.32%
+
+	Census Information
+		Population: 161322.0
+
+		Mean Median Worker Earnings: $94471.52111925218
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 11.884421839550711
+
+		Mean Unemployment Rate: 5.190165631469979
+
+		% of Population Hispanic or Latino: 16.63%
+		Rank by % Hispanic or Latino: 28/45
+
+		% of Population Foreign-Born: 28.68%
+		Rank by % Foreign-Born: 24/45
+			Naturalized Citizenship: 14.7%
+			No US Citizenship: 13.98%
+
+		% of Population Primary Language Not-English: 29.96%
+		Rank by % Primary Language Not-English: 33/45

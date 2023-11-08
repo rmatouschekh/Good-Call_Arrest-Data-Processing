@@ -1,0 +1,38 @@
+Information on Crotona - Tremont in 2023, Quarter 2
+
+	# Arrests: 2376
+	Rank by # Arrests: 6/45
+
+	% Change in Arrests: 5.32
+	Rank by % Change in Arrests: 22/45
+
+	Arrests by Population: 1.08
+	Rank by Arrests by Population: 6/45
+
+	Most Common Offense Types:
+		Offenses Against the Person: 37.67%
+		Offenses Involving Theft: 18.48%
+		Vehicle and Traffic Law: 9.68%
+		Offenses Involving Damage to and Intrusion Upon Property: 7.24%
+		Offenses Involving Fraud: 6.94%
+
+	Census Information
+		Population: 219815.0
+
+		Mean Median Worker Earnings: $26565.271059754792
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 33.57401542205946
+
+		Mean Unemployment Rate: 14.03988808771012
+
+		% of Population Hispanic or Latino: 66.96%
+		Rank by % Hispanic or Latino: 2/45
+
+		% of Population Foreign-Born: 37.82%
+		Rank by % Foreign-Born: 17/45
+			Naturalized Citizenship: 18.09%
+			No US Citizenship: 19.74%
+
+		% of Population Primary Language Not-English: 66.8%
+		Rank by % Primary Language Not-English: 6/45

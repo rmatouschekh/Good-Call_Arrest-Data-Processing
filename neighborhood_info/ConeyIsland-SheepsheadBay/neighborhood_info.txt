@@ -1,0 +1,38 @@
+Information on Coney Island - Sheepshead Bay in 2023, Quarter 2
+
+	# Arrests: 1418
+	Rank by # Arrests: 18/45
+
+	% Change in Arrests: 14.17
+	Rank by % Change in Arrests: 9/45
+
+	Arrests by Population: 0.47
+	Rank by Arrests by Population: 30/45
+
+	Most Common Offense Types:
+		Offenses Involving Theft: 29.13%
+		Offenses Against the Person: 26.45%
+		Offenses Against Public Administration: 10.51%
+		Offenses Against Public Health and Morals: 6.91%
+		Offenses Involving Fraud: 6.77%
+
+	Census Information
+		Population: 302072.0
+
+		Mean Median Worker Earnings: $41193.554182446576
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 18.752853955348392
+
+		Mean Unemployment Rate: 6.4583811144362935
+
+		% of Population Hispanic or Latino: 12.05%
+		Rank by % Hispanic or Latino: 37/45
+
+		% of Population Foreign-Born: 50.65%
+		Rank by % Foreign-Born: 3/45
+			Naturalized Citizenship: 35.33%
+			No US Citizenship: 15.32%
+
+		% of Population Primary Language Not-English: 63.92%
+		Rank by % Primary Language Not-English: 9/45
