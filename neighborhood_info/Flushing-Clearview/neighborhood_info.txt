@@ -1,0 +1,38 @@
+Information on Flushing - Clearview in 2023, Quarter 2
+
+	# Arrests: 1076
+	Rank by # Arrests: 24/45
+
+	% Change in Arrests: -5.03
+	Rank by % Change in Arrests: 41/45
+
+	Arrests by Population: 0.41
+	Rank by Arrests by Population: 32/45
+
+	Most Common Offense Types:
+		Offenses Involving Theft: 34.94%
+		Offenses Against the Person: 27.23%
+		Offenses Involving Damage to and Intrusion Upon Property: 9.11%
+		Offenses Against Public Health and Morals: 8.64%
+		Offenses Against Public Administration: 6.04%
+
+	Census Information
+		Population: 263797.0
+
+		Mean Median Worker Earnings: $38234.45647979317
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 14.052535472351847
+
+		Mean Unemployment Rate: 6.155287588562417
+
+		% of Population Hispanic or Latino: 17.94%
+		Rank by % Hispanic or Latino: 24/45
+
+		% of Population Foreign-Born: 55.24%
+		Rank by % Foreign-Born: 2/45
+			Naturalized Citizenship: 29.3%
+			No US Citizenship: 25.94%
+
+		% of Population Primary Language Not-English: 70.03%
+		Rank by % Primary Language Not-English: 3/45

@@ -1,0 +1,38 @@
+Information on Fordham - Bronx Park in 2023, Quarter 2
+
+	# Arrests: 2008
+	Rank by # Arrests: 10/45
+
+	% Change in Arrests: 9.07
+	Rank by % Change in Arrests: 15/45
+
+	Arrests by Population: 0.74
+	Rank by Arrests by Population: 16/45
+
+	Most Common Offense Types:
+		Offenses Involving Theft: 33.12%
+		Offenses Against the Person: 29.93%
+		Offenses Against Public Health and Morals: 7.42%
+		Offenses Involving Damage to and Intrusion Upon Property: 6.23%
+		Vehicle and Traffic Law: 5.73%
+
+	Census Information
+		Population: 271446.0
+
+		Mean Median Worker Earnings: $28120.995697118396
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 27.7481414351289
+
+		Mean Unemployment Rate: 12.63002180912594
+
+		% of Population Hispanic or Latino: 66.79%
+		Rank by % Hispanic or Latino: 3/45
+
+		% of Population Foreign-Born: 41.25%
+		Rank by % Foreign-Born: 12/45
+			Naturalized Citizenship: 17.9%
+			No US Citizenship: 23.35%
+
+		% of Population Primary Language Not-English: 69.98%
+		Rank by % Primary Language Not-English: 4/45

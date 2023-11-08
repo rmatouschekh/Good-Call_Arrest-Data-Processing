@@ -1,0 +1,38 @@
+Information on Downtown - Heights - Park Slope in 2023, Quarter 2
+
+	# Arrests: 2013
+	Rank by # Arrests: 9/45
+
+	% Change in Arrests: -1.47
+	Rank by % Change in Arrests: 39/45
+
+	Arrests by Population: 0.73
+	Rank by Arrests by Population: 17/45
+
+	Most Common Offense Types:
+		Offenses Involving Theft: 35.02%
+		Offenses Against the Person: 22.6%
+		Offenses Involving Damage to and Intrusion Upon Property: 11.57%
+		Vehicle and Traffic Law: 7.35%
+		Offenses Against Public Administration: 6.51%
+
+	Census Information
+		Population: 275295.0
+
+		Mean Median Worker Earnings: $77203.18039194318
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 13.738156523002598
+
+		Mean Unemployment Rate: 6.891064494451407
+
+		% of Population Hispanic or Latino: 14.78%
+		Rank by % Hispanic or Latino: 31/45
+
+		% of Population Foreign-Born: 18.21%
+		Rank by % Foreign-Born: 42/45
+			Naturalized Citizenship: 9.24%
+			No US Citizenship: 8.97%
+
+		% of Population Primary Language Not-English: 27.93%
+		Rank by % Primary Language Not-English: 40/45

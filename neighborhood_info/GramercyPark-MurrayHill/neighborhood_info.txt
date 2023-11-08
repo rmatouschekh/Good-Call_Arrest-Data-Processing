@@ -1,0 +1,38 @@
+Information on Gramercy Park - Murray Hill in 2023, Quarter 2
+
+	# Arrests: 849
+	Rank by # Arrests: 29/45
+
+	% Change in Arrests: 13.65
+	Rank by % Change in Arrests: 10/45
+
+	Arrests by Population: 0.61
+	Rank by Arrests by Population: 19/45
+
+	Most Common Offense Types:
+		Offenses Involving Theft: 44.76%
+		Offenses Against the Person: 24.15%
+		Offenses Involving Damage to and Intrusion Upon Property: 14.37%
+		Offenses Against Public Administration: 3.89%
+		Vehicle and Traffic Law: 3.53%
+
+	Census Information
+		Population: 138768.0
+
+		Mean Median Worker Earnings: $97820.85466389946
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 7.950206820016142
+
+		Mean Unemployment Rate: 4.023493168453823
+
+		% of Population Hispanic or Latino: 10.09%
+		Rank by % Hispanic or Latino: 39/45
+
+		% of Population Foreign-Born: 24.36%
+		Rank by % Foreign-Born: 34/45
+			Naturalized Citizenship: 12.7%
+			No US Citizenship: 11.66%
+
+		% of Population Primary Language Not-English: 26.79%
+		Rank by % Primary Language Not-English: 39/45

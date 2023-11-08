@@ -1,0 +1,38 @@
+Information on East New York in 2023, Quarter 2
+
+	# Arrests: 1958
+	Rank by # Arrests: 11/45
+
+	% Change in Arrests: 8.06
+	Rank by % Change in Arrests: 18/45
+
+	Arrests by Population: 0.95
+	Rank by Arrests by Population: 8/45
+
+	Most Common Offense Types:
+		Offenses Against the Person: 25.54%
+		Offenses Involving Theft: 17.98%
+		Offenses Against Public Administration: 12.26%
+		Vehicle and Traffic Law: 12.05%
+		Offenses Involving Damage to and Intrusion Upon Property: 7.87%
+
+	Census Information
+		Population: 205414.0
+
+		Mean Median Worker Earnings: $34476.31049490298
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 24.33520792156328
+
+		Mean Unemployment Rate: 9.020553613677745
+
+		% of Population Hispanic or Latino: 37.66%
+		Rank by % Hispanic or Latino: 12/45
+
+		% of Population Foreign-Born: 34.54%
+		Rank by % Foreign-Born: 20/45
+			Naturalized Citizenship: 21.52%
+			No US Citizenship: 13.02%
+
+		% of Population Primary Language Not-English: 41.79%
+		Rank by % Primary Language Not-English: 23/45

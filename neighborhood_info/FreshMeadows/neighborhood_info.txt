@@ -1,0 +1,38 @@
+Information on Fresh Meadows in 2023, Quarter 2
+
+	# Arrests: 372
+	Rank by # Arrests: 40/45
+
+	% Change in Arrests: 1.36
+	Rank by % Change in Arrests: 31/45
+
+	Arrests by Population: 0.37
+	Rank by Arrests by Population: 34/45
+
+	Most Common Offense Types:
+		Offenses Against the Person: 29.57%
+		Offenses Involving Theft: 25.54%
+		Offenses Against Public Administration: 12.63%
+		Vehicle and Traffic Law: 7.53%
+		Offenses Involving Damage to and Intrusion Upon Property: 6.18%
+
+	Census Information
+		Population: 101723.0
+
+		Mean Median Worker Earnings: $42303.479675196366
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 11.494684584607215
+
+		Mean Unemployment Rate: 6.336447017881895
+
+		% of Population Hispanic or Latino: 17.77%
+		Rank by % Hispanic or Latino: 25/45
+
+		% of Population Foreign-Born: 43.59%
+		Rank by % Foreign-Born: 7/45
+			Naturalized Citizenship: 29.41%
+			No US Citizenship: 14.19%
+
+		% of Population Primary Language Not-English: 60.17%
+		Rank by % Primary Language Not-English: 12/45

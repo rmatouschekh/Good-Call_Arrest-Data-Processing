@@ -1,0 +1,38 @@
+Information on East Harlem in 2023, Quarter 2
+
+	# Arrests: 1545
+	Rank by # Arrests: 16/45
+
+	% Change in Arrests: 13.44
+	Rank by % Change in Arrests: 11/45
+
+	Arrests by Population: 1.35
+	Rank by Arrests by Population: 4/45
+
+	Most Common Offense Types:
+		Offenses Against the Person: 25.76%
+		Offenses Against Public Health and Morals: 21.49%
+		Offenses Involving Theft: 15.73%
+		Vehicle and Traffic Law: 7.44%
+		Offenses Against Public Administration: 6.6%
+
+	Census Information
+		Population: 114703.0
+
+		Mean Median Worker Earnings: $40131.61214615137
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 31.907345928179737
+
+		Mean Unemployment Rate: 9.455232208399082
+
+		% of Population Hispanic or Latino: 45.21%
+		Rank by % Hispanic or Latino: 9/45
+
+		% of Population Foreign-Born: 24.65%
+		Rank by % Foreign-Born: 33/45
+			Naturalized Citizenship: 12.95%
+			No US Citizenship: 11.7%
+
+		% of Population Primary Language Not-English: 50.59%
+		Rank by % Primary Language Not-English: 17/45

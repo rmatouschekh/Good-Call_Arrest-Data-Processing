@@ -1,0 +1,38 @@
+Information on Greenpoint in 2023, Quarter 2
+
+	# Arrests: 711
+	Rank by # Arrests: 33/45
+
+	% Change in Arrests: -1.66
+	Rank by % Change in Arrests: 40/45
+
+	Arrests by Population: 0.48
+	Rank by Arrests by Population: 28/45
+
+	Most Common Offense Types:
+		Offenses Involving Theft: 23.63%
+		Offenses Against the Person: 22.93%
+		Offenses Involving Damage to and Intrusion Upon Property: 17.3%
+		Offenses Against Public Administration: 11.11%
+		Offenses Against Public Health and Morals: 6.61%
+
+	Census Information
+		Population: 148015.0
+
+		Mean Median Worker Earnings: $62596.74151944059
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 20.248290375975408
+
+		Mean Unemployment Rate: 6.499765564300915
+
+		% of Population Hispanic or Latino: 21.32%
+		Rank by % Hispanic or Latino: 21/45
+
+		% of Population Foreign-Born: 22.79%
+		Rank by % Foreign-Born: 41/45
+			Naturalized Citizenship: 11.94%
+			No US Citizenship: 10.85%
+
+		% of Population Primary Language Not-English: 47.31%
+		Rank by % Primary Language Not-English: 21/45

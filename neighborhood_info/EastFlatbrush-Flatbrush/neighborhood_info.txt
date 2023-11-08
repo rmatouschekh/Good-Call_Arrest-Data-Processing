@@ -1,0 +1,38 @@
+Information on East Flatbrush - Flatbrush in 2023, Quarter 2
+
+	# Arrests: 1838
+	Rank by # Arrests: 12/45
+
+	% Change in Arrests: 3.49
+	Rank by % Change in Arrests: 25/45
+
+	Arrests by Population: 0.6
+	Rank by Arrests by Population: 21/45
+
+	Most Common Offense Types:
+		Offenses Against the Person: 31.07%
+		Offenses Involving Theft: 19.21%
+		Vehicle and Traffic Law: 10.45%
+		Offenses Against Public Administration: 9.58%
+		Offenses Involving Damage to and Intrusion Upon Property: 8.87%
+
+	Census Information
+		Population: 304594.0
+
+		Mean Median Worker Earnings: $43113.84620511238
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 13.328189984044332
+
+		Mean Unemployment Rate: 6.188263393238212
+
+		% of Population Hispanic or Latino: 10.15%
+		Rank by % Hispanic or Latino: 38/45
+
+		% of Population Foreign-Born: 42.71%
+		Rank by % Foreign-Born: 10/45
+			Naturalized Citizenship: 28.19%
+			No US Citizenship: 14.52%
+
+		% of Population Primary Language Not-English: 28.14%
+		Rank by % Primary Language Not-English: 37/45
