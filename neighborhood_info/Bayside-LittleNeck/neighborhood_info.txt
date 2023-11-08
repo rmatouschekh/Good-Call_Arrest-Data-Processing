@@ -1,0 +1,38 @@
+Information on Bayside - Little Neck in 2023, Quarter 2
+
+	# Arrests: 179
+	Rank by # Arrests: 42/45
+
+	% Change in Arrests: -8.67
+	Rank by % Change in Arrests: 43/45
+
+	Arrests by Population: 0.19
+	Rank by Arrests by Population: 42/45
+
+	Most Common Offense Types:
+		Offenses Against the Person: 27.93%
+		Vehicle and Traffic Law: 23.46%
+		Offenses Involving Theft: 17.32%
+		Offenses Against Public Administration: 9.5%
+		Offenses Involving Damage to and Intrusion Upon Property: 7.26%
+
+	Census Information
+		Population: 95662.0
+
+		Mean Median Worker Earnings: $51825.99834835148
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 7.789582070205515
+
+		Mean Unemployment Rate: 5.161636804582802
+
+		% of Population Hispanic or Latino: 13.93%
+		Rank by % Hispanic or Latino: 33/45
+
+		% of Population Foreign-Born: 39.9%
+		Rank by % Foreign-Born: 15/45
+			Naturalized Citizenship: 28.21%
+			No US Citizenship: 11.69%
+
+		% of Population Primary Language Not-English: 54.56%
+		Rank by % Primary Language Not-English: 15/45
