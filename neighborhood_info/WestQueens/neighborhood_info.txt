@@ -1,0 +1,38 @@
+Information on West Queens in 2023, Quarter 2
+
+	# Arrests: 2238
+	Rank by # Arrests: 8/45
+
+	% Change in Arrests: 5.67
+	Rank by % Change in Arrests: 21/45
+
+	Arrests by Population: 0.47
+	Rank by Arrests by Population: 29/45
+
+	Most Common Offense Types:
+		Offenses Against the Person: 34.58%
+		Offenses Involving Theft: 27.84%
+		Offenses Against Public Administration: 7.46%
+		Offenses Involving Damage to and Intrusion Upon Property: 6.17%
+		Vehicle and Traffic Law: 5.59%
+
+	Census Information
+		Population: 472404.0
+
+		Mean Median Worker Earnings: $35160.150138440826
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 12.457654676929067
+
+		Mean Unemployment Rate: 6.365065494788359
+
+		% of Population Hispanic or Latino: 51.59%
+		Rank by % Hispanic or Latino: 7/45
+
+		% of Population Foreign-Born: 57.75%
+		Rank by % Foreign-Born: 1/45
+			Naturalized Citizenship: 25.9%
+			No US Citizenship: 31.85%
+
+		% of Population Primary Language Not-English: 77.99%
+		Rank by % Primary Language Not-English: 1/45

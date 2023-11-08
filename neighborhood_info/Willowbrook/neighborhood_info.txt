@@ -1,0 +1,38 @@
+Information on Willowbrook in 2023, Quarter 2
+
+	# Arrests: 185
+	Rank by # Arrests: 41/45
+
+	% Change in Arrests: 3.35
+	Rank by % Change in Arrests: 27/45
+
+	Arrests by Population: 0.2
+	Rank by Arrests by Population: 41/45
+
+	Most Common Offense Types:
+		Offenses Involving Theft: 37.84%
+		Offenses Against the Person: 24.32%
+		Vehicle and Traffic Law: 16.22%
+		Offenses Involving Fraud: 4.86%
+		Offenses Involving Damage to and Intrusion Upon Property: 4.86%
+
+	Census Information
+		Population: 93736.0
+
+		Mean Median Worker Earnings: $51337.0
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 9.3
+
+		Mean Unemployment Rate: 5.5
+
+		% of Population Hispanic or Latino: 15.15%
+		Rank by % Hispanic or Latino: 29/45
+
+		% of Population Foreign-Born: 27.61%
+		Rank by % Foreign-Born: 29/45
+			Naturalized Citizenship: 19.7%
+			No US Citizenship: 7.9%
+
+		% of Population Primary Language Not-English: 38.83%
+		Rank by % Primary Language Not-English: 25/45

@@ -1,0 +1,38 @@
+Information on Union Square - Lower East Side in 2023, Quarter 2
+
+	# Arrests: 1354
+	Rank by # Arrests: 19/45
+
+	% Change in Arrests: 14.94
+	Rank by % Change in Arrests: 7/45
+
+	Arrests by Population: 0.71
+	Rank by Arrests by Population: 18/45
+
+	Most Common Offense Types:
+		Offenses Involving Theft: 30.8%
+		Offenses Against the Person: 26.74%
+		Offenses Involving Damage to and Intrusion Upon Property: 16.77%
+		Offenses Against Public Health and Morals: 6.28%
+		Offenses Against Public Administration: 5.47%
+
+	Census Information
+		Population: 191254.0
+
+		Mean Median Worker Earnings: $61201.155479101086
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 21.41558660211028
+
+		Mean Unemployment Rate: 5.938344818931892
+
+		% of Population Hispanic or Latino: 20.37%
+		Rank by % Hispanic or Latino: 23/45
+
+		% of Population Foreign-Born: 28.47%
+		Rank by % Foreign-Born: 27/45
+			Naturalized Citizenship: 16.0%
+			No US Citizenship: 12.47%
+
+		% of Population Primary Language Not-English: 38.94%
+		Rank by % Primary Language Not-English: 24/45

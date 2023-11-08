@@ -1,0 +1,38 @@
+Information on Washington Heights - Inwood in 2023, Quarter 2
+
+	# Arrests: 1674
+	Rank by # Arrests: 14/45
+
+	% Change in Arrests: -1.12
+	Rank by % Change in Arrests: 38/45
+
+	Arrests by Population: 0.61
+	Rank by Arrests by Population: 20/45
+
+	Most Common Offense Types:
+		Offenses Against the Person: 29.21%
+		Offenses Involving Theft: 22.76%
+		Offenses Against Public Health and Morals: 11.59%
+		Offenses Involving Damage to and Intrusion Upon Property: 7.65%
+		Offenses Against Public Administration: 7.65%
+
+	Census Information
+		Population: 272205.0
+
+		Mean Median Worker Earnings: $35476.018746900314
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 18.40024172957881
+
+		Mean Unemployment Rate: 11.071072169871972
+
+		% of Population Hispanic or Latino: 63.93%
+		Rank by % Hispanic or Latino: 4/45
+
+		% of Population Foreign-Born: 42.47%
+		Rank by % Foreign-Born: 11/45
+			Naturalized Citizenship: 23.68%
+			No US Citizenship: 18.8%
+
+		% of Population Primary Language Not-English: 66.04%
+		Rank by % Primary Language Not-English: 5/45

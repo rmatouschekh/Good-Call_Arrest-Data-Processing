@@ -1,0 +1,38 @@
+Information on Upper East Side in 2023, Quarter 2
+
+	# Arrests: 495
+	Rank by # Arrests: 38/45
+
+	% Change in Arrests: 1.64
+	Rank by % Change in Arrests: 30/45
+
+	Arrests by Population: 0.23
+	Rank by Arrests by Population: 39/45
+
+	Most Common Offense Types:
+		Offenses Involving Theft: 50.91%
+		Offenses Against the Person: 20.81%
+		Offenses Involving Damage to and Intrusion Upon Property: 11.11%
+		Offenses Against Public Administration: 5.45%
+		Vehicle and Traffic Law: 3.03%
+
+	Census Information
+		Population: 217508.0
+
+		Mean Median Worker Earnings: $93007.4231844346
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 6.808070507751438
+
+		Mean Unemployment Rate: 3.9754307887525977
+
+		% of Population Hispanic or Latino: 9.08%
+		Rank by % Hispanic or Latino: 41/45
+
+		% of Population Foreign-Born: 23.31%
+		Rank by % Foreign-Born: 39/45
+			Naturalized Citizenship: 11.84%
+			No US Citizenship: 11.47%
+
+		% of Population Primary Language Not-English: 27.49%
+		Rank by % Primary Language Not-English: 38/45

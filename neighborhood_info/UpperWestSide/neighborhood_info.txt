@@ -1,0 +1,38 @@
+Information on Upper West Side in 2023, Quarter 2
+
+	# Arrests: 887
+	Rank by # Arrests: 28/45
+
+	% Change in Arrests: 4.11
+	Rank by % Change in Arrests: 24/45
+
+	Arrests by Population: 0.38
+	Rank by Arrests by Population: 33/45
+
+	Most Common Offense Types:
+		Offenses Involving Theft: 42.39%
+		Offenses Against the Person: 23.34%
+		Offenses Involving Damage to and Intrusion Upon Property: 9.47%
+		Vehicle and Traffic Law: 6.43%
+		Offenses Against Public Administration: 6.2%
+
+	Census Information
+		Population: 232499.0
+
+		Mean Median Worker Earnings: $86159.21583748747
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 11.05975810648648
+
+		Mean Unemployment Rate: 5.87072589559525
+
+		% of Population Hispanic or Latino: 15.06%
+		Rank by % Hispanic or Latino: 30/45
+
+		% of Population Foreign-Born: 22.88%
+		Rank by % Foreign-Born: 40/45
+			Naturalized Citizenship: 11.93%
+			No US Citizenship: 10.95%
+
+		% of Population Primary Language Not-English: 30.25%
+		Rank by % Primary Language Not-English: 34/45

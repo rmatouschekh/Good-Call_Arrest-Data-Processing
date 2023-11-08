@@ -1,0 +1,38 @@
+Information on Williamsburg - Bushwick in 2023, Quarter 2
+
+	# Arrests: 1752
+	Rank by # Arrests: 13/45
+
+	% Change in Arrests: 9.5
+	Rank by % Change in Arrests: 14/45
+
+	Arrests by Population: 0.76
+	Rank by Arrests by Population: 14/45
+
+	Most Common Offense Types:
+		Offenses Against the Person: 34.25%
+		Offenses Involving Theft: 18.84%
+		Offenses Against Public Administration: 10.62%
+		Offenses Involving Damage to and Intrusion Upon Property: 10.27%
+		Offenses Against Public Health and Morals: 8.45%
+
+	Census Information
+		Population: 231221.0
+
+		Mean Median Worker Earnings: $38606.13971914316
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 27.131018808845216
+
+		Mean Unemployment Rate: 7.730081177747696
+
+		% of Population Hispanic or Latino: 39.62%
+		Rank by % Hispanic or Latino: 11/45
+
+		% of Population Foreign-Born: 24.33%
+		Rank by % Foreign-Born: 35/45
+			Naturalized Citizenship: 12.93%
+			No US Citizenship: 11.41%
+
+		% of Population Primary Language Not-English: 48.12%
+		Rank by % Primary Language Not-English: 19/45
