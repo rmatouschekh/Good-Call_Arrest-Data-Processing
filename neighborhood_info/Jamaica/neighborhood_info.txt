@@ -1,0 +1,38 @@
+Information on Jamaica in 2023, Quarter 2
+
+	# Arrests: 3114
+	Rank by # Arrests: 2/45
+
+	% Change in Arrests: 15.25
+	Rank by % Change in Arrests: 6/45
+
+	Arrests by Population: 0.95
+	Rank by Arrests by Population: 9/45
+
+	Most Common Offense Types:
+		Offenses Against the Person: 26.14%
+		Offenses Involving Theft: 15.48%
+		Offenses Against Public Health and Morals: 13.01%
+		Vehicle and Traffic Law: 11.91%
+		Offenses Against Public Administration: 9.44%
+
+	Census Information
+		Population: 327533.0
+
+		Mean Median Worker Earnings: $38552.22512846033
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 12.017923690131989
+
+		Mean Unemployment Rate: 9.035403455529671
+
+		% of Population Hispanic or Latino: 17.16%
+		Rank by % Hispanic or Latino: 26/45
+
+		% of Population Foreign-Born: 46.05%
+		Rank by % Foreign-Born: 6/45
+			Naturalized Citizenship: 30.33%
+			No US Citizenship: 15.72%
+
+		% of Population Primary Language Not-English: 37.46%
+		Rank by % Primary Language Not-English: 27/45

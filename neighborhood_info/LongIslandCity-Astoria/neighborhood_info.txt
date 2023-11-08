@@ -1,0 +1,38 @@
+Information on Long Island City - Astoria in 2023, Quarter 2
+
+	# Arrests: 1230
+	Rank by # Arrests: 22/45
+
+	% Change in Arrests: 5.76
+	Rank by % Change in Arrests: 20/45
+
+	Arrests by Population: 0.58
+	Rank by Arrests by Population: 24/45
+
+	Most Common Offense Types:
+		Offenses Against the Person: 32.52%
+		Offenses Involving Theft: 22.68%
+		Offenses Against Public Administration: 10.73%
+		Offenses Involving Damage to and Intrusion Upon Property: 9.84%
+		Vehicle and Traffic Law: 6.83%
+
+	Census Information
+		Population: 210647.0
+
+		Mean Median Worker Earnings: $58534.23742564575
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 11.044668568742969
+
+		Mean Unemployment Rate: 7.18306503296985
+
+		% of Population Hispanic or Latino: 23.87%
+		Rank by % Hispanic or Latino: 20/45
+
+		% of Population Foreign-Born: 38.14%
+		Rank by % Foreign-Born: 16/45
+			Naturalized Citizenship: 20.44%
+			No US Citizenship: 17.7%
+
+		% of Population Primary Language Not-English: 50.61%
+		Rank by % Primary Language Not-English: 16/45

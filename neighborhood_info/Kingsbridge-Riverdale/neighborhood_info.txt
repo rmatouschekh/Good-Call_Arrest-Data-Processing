@@ -1,0 +1,38 @@
+Information on Kingsbridge - Riverdale in 2023, Quarter 2
+
+	# Arrests: 566
+	Rank by # Arrests: 36/45
+
+	% Change in Arrests: 11.86
+	Rank by % Change in Arrests: 12/45
+
+	Arrests by Population: 0.59
+	Rank by Arrests by Population: 23/45
+
+	Most Common Offense Types:
+		Offenses Involving Theft: 45.94%
+		Offenses Against the Person: 22.44%
+		Vehicle and Traffic Law: 6.89%
+		Offenses Involving Damage to and Intrusion Upon Property: 6.89%
+		Offenses Against Public Administration: 4.42%
+
+	Census Information
+		Population: 96643.0
+
+		Mean Median Worker Earnings: $43351.84070237886
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 15.896075246008506
+
+		Mean Unemployment Rate: 8.06761379510156
+
+		% of Population Hispanic or Latino: 45.64%
+		Rank by % Hispanic or Latino: 8/45
+
+		% of Population Foreign-Born: 27.61%
+		Rank by % Foreign-Born: 28/45
+			Naturalized Citizenship: 18.63%
+			No US Citizenship: 8.98%
+
+		% of Population Primary Language Not-English: 47.46%
+		Rank by % Primary Language Not-English: 20/45

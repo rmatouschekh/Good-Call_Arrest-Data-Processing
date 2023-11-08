@@ -1,0 +1,38 @@
+Information on Hunts Point - Mott Haven in 2023, Quarter 2
+
+	# Arrests: 2554
+	Rank by # Arrests: 5/45
+
+	% Change in Arrests: 7.4
+	Rank by % Change in Arrests: 19/45
+
+	Arrests by Population: 1.77
+	Rank by Arrests by Population: 2/45
+
+	Most Common Offense Types:
+		Offenses Against the Person: 29.09%
+		Offenses Involving Theft: 22.28%
+		Offenses Against Public Health and Morals: 9.32%
+		Offenses Involving Damage to and Intrusion Upon Property: 8.54%
+		Offenses Against Public Administration: 7.64%
+
+	Census Information
+		Population: 144304.0
+
+		Mean Median Worker Earnings: $27171.38590059873
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 36.28506070517796
+
+		Mean Unemployment Rate: 12.339660023284177
+
+		% of Population Hispanic or Latino: 69.76%
+		Rank by % Hispanic or Latino: 1/45
+
+		% of Population Foreign-Born: 29.33%
+		Rank by % Foreign-Born: 23/45
+			Naturalized Citizenship: 13.79%
+			No US Citizenship: 15.54%
+
+		% of Population Primary Language Not-English: 65.68%
+		Rank by % Primary Language Not-English: 7/45

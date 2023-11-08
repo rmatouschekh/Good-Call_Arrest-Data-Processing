@@ -1,0 +1,38 @@
+Information on Lower Manhattan in 2023, Quarter 2
+
+	# Arrests: 387
+	Rank by # Arrests: 39/45
+
+	% Change in Arrests: 10.57
+	Rank by % Change in Arrests: 13/45
+
+	Arrests by Population: 0.6
+	Rank by Arrests by Population: 22/45
+
+	Most Common Offense Types:
+		Offenses Involving Theft: 31.78%
+		For Other Authorities: 31.52%
+		Offenses Against the Person: 13.95%
+		Offenses Involving Damage to and Intrusion Upon Property: 7.75%
+		Offenses Against Public Administration: 3.36%
+
+	Census Information
+		Population: 64008.0
+
+		Mean Median Worker Earnings: $113803.13286285644
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 9.63425353080865
+
+		Mean Unemployment Rate: 4.211079865016873
+
+		% of Population Hispanic or Latino: 8.7%
+		Rank by % Hispanic or Latino: 42/45
+
+		% of Population Foreign-Born: 24.2%
+		Rank by % Foreign-Born: 36/45
+			Naturalized Citizenship: 13.27%
+			No US Citizenship: 10.92%
+
+		% of Population Primary Language Not-English: 30.02%
+		Rank by % Primary Language Not-English: 35/45

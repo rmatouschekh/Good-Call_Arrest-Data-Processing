@@ -1,0 +1,38 @@
+Information on High Bridge - Morrisania in 2023, Quarter 2
+
+	# Arrests: 2898
+	Rank by # Arrests: 3/45
+
+	% Change in Arrests: 8.54
+	Rank by % Change in Arrests: 16/45
+
+	Arrests by Population: 1.32
+	Rank by Arrests by Population: 5/45
+
+	Most Common Offense Types:
+		Offenses Against the Person: 30.88%
+		Offenses Involving Theft: 24.84%
+		Offenses Involving Damage to and Intrusion Upon Property: 8.8%
+		Vehicle and Traffic Law: 8.25%
+		Offenses Against Public Administration: 6.28%
+
+	Census Information
+		Population: 220270.0
+
+		Mean Median Worker Earnings: $27179.673900213376
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 35.77925909111545
+
+		Mean Unemployment Rate: 12.995915013392654
+
+		% of Population Hispanic or Latino: 61.01%
+		Rank by % Hispanic or Latino: 5/45
+
+		% of Population Foreign-Born: 33.45%
+		Rank by % Foreign-Born: 21/45
+			Naturalized Citizenship: 17.01%
+			No US Citizenship: 16.45%
+
+		% of Population Primary Language Not-English: 64.6%
+		Rank by % Primary Language Not-English: 8/45

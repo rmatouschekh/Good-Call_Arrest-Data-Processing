@@ -1,0 +1,38 @@
+Information on Northeast Bronx in 2023, Quarter 2
+
+	# Arrests: 1168
+	Rank by # Arrests: 23/45
+
+	% Change in Arrests: 18.58
+	Rank by % Change in Arrests: 1/45
+
+	Arrests by Population: 0.55
+	Rank by Arrests by Population: 25/45
+
+	Most Common Offense Types:
+		Offenses Against the Person: 36.47%
+		Offenses Involving Theft: 25.17%
+		Offenses Involving Damage to and Intrusion Upon Property: 9.59%
+		Offenses Against Public Administration: 8.65%
+		Offenses Involving Fraud: 5.48%
+
+	Census Information
+		Population: 212012.0
+
+		Mean Median Worker Earnings: $39141.26211723865
+			(The mean median worker earnings across all neighborhoods is $47519.79)
+
+		Mean % of Population Below Poverty Level: 14.82201007490142
+
+		Mean Unemployment Rate: 8.610616380204895
+
+		% of Population Hispanic or Latino: 27.7%
+		Rank by % Hispanic or Latino: 16/45
+
+		% of Population Foreign-Born: 37.19%
+		Rank by % Foreign-Born: 19/45
+			Naturalized Citizenship: 24.92%
+			No US Citizenship: 12.27%
+
+		% of Population Primary Language Not-English: 33.62%
+		Rank by % Primary Language Not-English: 31/45
